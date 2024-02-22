@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalranka2003&label=Profile%20views&color=0e75b6&style=flat" alt="vishalranka2003" /> </p>
 
+- Frontend Developer at [Cellstrat](https://cellstrathub.com/)
 - Ex Intern at [Hattyhood](https://www.linkedin.com/company/hattyhood/)
 
 - I’m currently learning and working on **Application Development and Data Structures and Algorithm**
