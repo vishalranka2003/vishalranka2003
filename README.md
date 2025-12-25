@@ -14,7 +14,7 @@
 ### 🧠 About
 - Associate Software Engineer @ **Lowe’s**
 - I build apps I’d actually use  
-- Backend-heavy, frontend-aware  
+- Focused on systems, thoughtful about interfaces  
 - Care about **clean code, DX, and real-world usefulness**
 
 ---
